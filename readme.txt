@@ -37,6 +37,6 @@ seleniumBroker/
 ├── gun.py # Módulo de integração com o gunicorn
 ├── answertest.py # Módulo de teste e debugging
 ├── requirements.txt  # Dependências do projeto
-└── README.md         # Este arquivo
+└── readme.txt         # Este arquivo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório.
