@@ -9,11 +9,6 @@ Transformação de Mensagens: Converte as mensagens recebidas em objetos padroni
 Filas (Queues): Gerencia a ordem e o processamento das mensagens recebidas.
 Executor: Facilita a conexão e comunicação com o broker.
 
-Requisitos
-Python 3.x
-Flask
-Flask-RESTful
-
 
 Instale as dependências:
 
@@ -26,8 +21,8 @@ Para iniciar o servidor Flask, execute:
 python app.py
 
 Para facilitar a execução do próprio executor, somente 2 endpoints existem e a ação depende do payload enviado.
-Todos os payloads podem ser enviados com mais facilidade pelo executor.py
 
+Todos os payloads podem ser enviados com mais facilidade pelo executor.py
 
 A porta padrão é 1446.
 
